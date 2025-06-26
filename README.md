@@ -36,27 +36,27 @@ CGV Crawler는 CGV 공식 웹사이트에서 현재 상영 중인 영화들의 �
 ## 📊 시각화 예시
 
 ### 🎬 1. 전체 리뷰 통합 영화별 감성 분포
-![영화별 감성 분포](./7245827d-6d25-42b5-abea-0eb95a12e37d.png)
+![영화별 감성 분포](https://github.com/Je0ngaram/CGV_Crawler/blob/main/image/%EC%82%AC%EC%A7%841.png)
 
 ---
 
 ### 🌈 2. 전체 리뷰 워드클라우드
-![워드클라우드](./f8548c14-36b8-42b1-adc3-9e06fe6e0da9.png)
+![워드클라우드](https://github.com/Je0ngaram/CGV_Crawler/blob/main/image/%EC%82%AC%EC%A7%842.png)
 
 ---
 
 ### 📊 3. 전체 리뷰 감성 분포 막대 그래프
-![감성 막대그래프](./dd687d0f-3a08-40e7-9075-7b429f131aa7.png)
+![감성 막대그래프](https://github.com/Je0ngaram/CGV_Crawler/blob/main/image/%EC%82%AC%EC%A7%843.png)
 
 ---
 
 ### 🥧 4. 전체 리뷰 감성 분포 원형 그래프
-![감성 원형그래프](./8a780aef-2c43-4b67-81c2-9b729c174038.png)
+![감성 원형그래프](https://github.com/Je0ngaram/CGV_Crawler/blob/main/image/%EC%82%AC%EC%A7%844.png)
 
 ---
 
 ### 🧠 5. 모든 영화 리뷰 전체 통합 감성 분포
-![전체 통합 감성 원형](./7ae4a0db-1c7c-4003-ad74-a54dd4c33c26.png)
+![전체 통합 감성 원형](https://github.com/Je0ngaram/CGV_Crawler/blob/main/image/%EC%82%AC%EC%A7%845.png)
 
 ---
 
